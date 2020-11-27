@@ -1,0 +1,19 @@
+  
+  @font-face {
+    font-family: 'geomanist-regular-webfont';
+    src: URL('geomanist-regular-webfont.ttf') format('truetype');
+  }
+  body {
+    font-family: 'geomanist-regular-webfont', Fallback, sans-serif;
+  }
+  * {
+    font-family: 'geomanist-regular-webfont', Fallback, sans-serif;
+  }
+  span, p, h1, h2, h3, h4, h5, h6, div, a, strong, b{
+    font-family: 'geomanist-regular-webfont', Fallback, sans-serif!important;
+  }
+
+
+  .f_a_beed2cf1>div{
+    background-color: #666e76;
+  }
